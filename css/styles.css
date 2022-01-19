@@ -457,18 +457,18 @@ a {
 }
 
 .quote__author {
-  font-size: 3rem;
-  font-weight: 500;
+  font-size: 2rem;
+  font-weight: 700;
   font-style: normal;
 }
 
 .quote__organization {
   color: var(--color-headings);
   opacity: 0.4;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-style: normal;
   position: absolute;
-  top: 2rem;
+  top: 3rem;
 }
 
 .quote__line {
