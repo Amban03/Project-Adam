@@ -509,7 +509,7 @@ a {
 
 /* Testimonial */
 .testimonial {
-  padding: 3rem;
+  padding: 0;
 }
 
 .testimonial__image {
